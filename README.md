@@ -4,7 +4,7 @@ As a second-year Master’s student in Economics, specializing in Economic Data 
 
 I’m currently focusing on expanding my expertise in machine learning, data analysis, and programming. I’m always eager to collaborate on innovative projects and grow my network, while learning from others in the field. Driven by my ambition and love for economic and social sciences, I aim to contribute to data-driven solutions that can create a positive impact.
 
-# 
+---
 
 <!---
 ![Aurel GitHub stats](https://github-readme-stats.vercel.app/api?username=aurvl&show_icons=true&theme=dark)
