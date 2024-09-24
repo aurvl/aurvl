@@ -1,8 +1,8 @@
 **Hi, I’m Aurel VEHI !**
 
-As a second-year Master’s student in Economics, specializing in Economic Data Expertise and Analysis at Université Côte d'Azur, I’m passionate about leveraging data to solve complex economic and social challenges. Throughout my academic journey, I’ve honed my analytical skills, developed creative problem-solving approaches, and nurtured a deep interest in both economic theory and its real-world applications. 
+As a second-year Master’s student in Economics, specializing in Economic Data Expertise and Analysis at Université Côte d'Azur, I’m passionate about solving economic and social challenges through data. Throughout my studies, I’ve developed strong analytical skills and a deep interest in real-world applications of economic theory.
 
-Driven by ambition and a love for economic and social sciences, I aim to contribute to impactful research and data-driven solutions. I’m always eager to collaborate, learn, and bring innovative insights to the table.
+I’m currently focusing on expanding my expertise in machine learning, data analysis, and programming. I’m always eager to collaborate on innovative projects and grow my network, while learning from others in the field. Driven by my ambition and love for economic and social sciences, I aim to contribute to data-driven solutions that can create a positive impact.
 
 .
 <!--- --->
