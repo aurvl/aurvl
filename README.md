@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 
-![hathach's GitHub stats](https://github-readme-stats.vercel.app/api?username=aurvl&count_private=true&show_icons=true&theme=noctis_minimus)
+![Aurel GitHub stats](https://github-readme-stats.vercel.app/api?username=aurvl&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurvl&layout=compact&theme=noctis_minimus)
 
 <!---
