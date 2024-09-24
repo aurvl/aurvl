@@ -9,4 +9,5 @@ I’m currently focusing on expanding my expertise in machine learning, data ana
 <!--- --->
 
 ![Aurel GitHub stats](https://github-readme-stats.vercel.app/api?username=aurvl&show_icons=true&theme=dark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aurvl&layout=compact&theme=dark)
