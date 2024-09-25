@@ -1,4 +1,4 @@
-## **Hi, I’m Aurel !**👋
+## **Hi, I’m Aurel !👋**
 
 As a second-year Master’s student in Economics, specializing in Economic Data Expertise and Analysis at Université Côte d'Azur, I’m passionate about solving economic and social challenges through data. 📊📈 Throughout my studies, I’ve developed strong analytical skills and a deep interest in real-world applications of economic theory. 🌍
 
