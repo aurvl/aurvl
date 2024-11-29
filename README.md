@@ -6,8 +6,13 @@ I’m currently focusing on expanding my expertise in economics, machine learnin
 
 I’m always eager to collaborate on innovative projects and grow my network, while learning from others in the field. 🤝 Driven by my ambition and love for economic and social sciences, I aim to contribute to data-driven solutions that can create a positive impact. 🌟
 
+<a href="https://aurvl.github.io/portfolio/index.html" target="_blank" rel="noreferrer nofollow">
+   View my portfolio
+</a>
 
+<!---
 [View my Portfolio](https://aurvl.github.io/portfolio/explore-projects_fr.html)
+--->
 # 
 
 <!---
