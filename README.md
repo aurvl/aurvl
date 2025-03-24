@@ -1,8 +1,12 @@
 ## **Hi, I’m Aurel, a Reasearch Assistant, Data Analyst/Scientist and Statistical Economist!👋**
 <img src ="imgbanner.png" alt = "Aurel GitHub Profile" width = "100%"/>
 
-🎓 Master’s student in Economic Data Expertise and Analysis at Université Côte d’Azur.<br>🌍 Passionate about tackling economic and social challenges through data.<br>💻 Building strong skills in economics, machine learning, data analysis, and programming.<br>📊 I take a data-driven and analytical approach to solving complex problems.<br>🚀 Always eager to learn, collaborate, and contribute to impactful projects.<br><br>🔗 [View my Portfolio](https://aurvl.github.io/portfolio/index.html)
-
+🎓 Master’s student in <strong>Economic Data Expertise and Analysis</strong> at <strong>Université Côte d’Azur</strong>.<br>
+🌍 Passionate about tackling <strong>economic</strong> and <strong>social challenges</strong> through <strong>data</strong>.<br>
+💻 Building strong skills in <strong>economics</strong>, <strong>machine learning</strong>, <strong>data analysis</strong>, and <strong>programming</strong>.<br>
+📊 I take a <strong>data-driven</strong> and <strong>analytical approach</strong> to solving <strong>complex problems</strong>.<br>
+🚀 Always eager to <strong>learn</strong>, <strong>collaborate</strong>, and contribute to <strong>impactful projects</strong>.<br><br>
+🔗 <a href="https://aurvl.github.io/portfolio/index.html" target="_blank"><strong>View my Portfolio</strong></a>
 
 
 ## 🌐 Socials:
