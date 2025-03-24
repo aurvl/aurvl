@@ -6,7 +6,7 @@
 💻 Building strong skills in <strong>economics</strong>, <strong>machine learning</strong>, <strong>data analysis</strong>, and <strong>programming</strong>.<br>
 📊 I take a <strong>data-driven</strong> and <strong>analytical approach</strong> to solving <strong>complex problems</strong>.<br>
 🚀 Always eager to <strong>learn</strong>, <strong>collaborate</strong>, and contribute to <strong>impactful projects</strong>.<br><br>
-🔗 <a href="https://aurvl.github.io/portfolio/index.html" target="_blank"><strong>View my Portfolio</strong></a>
+🔗 <a href="https://aurvl.github.io/portfolio/index.html" target="_blank"><strong>View my Website</strong></a>
 
 
 ## 🌐 Socials:
