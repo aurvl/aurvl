@@ -25,7 +25,7 @@
       </a>
       <br/>
       <b>House Price Prediction</b><br/>
-      <a href="https://github.com/aurvl/Housing-Price-Prediction">Repo</a>
+      <a href="https://github.com/aurvl/Housing-Price-Prediction">Repo</a><br/>
       <sub>Tags: ML, Regression, Python</sub><br/>
     </td> <!---Fin--->
     <td align="center" width="33%">
@@ -34,7 +34,7 @@
       </a>
       <br/>
       <b>House Price Prediction</b><br/>
-      <a href="https://github.com/aurvl/Housing-Price-Prediction">Repo</a>
+      <a href="https://github.com/aurvl/Housing-Price-Prediction">Repo</a><br/>
       <sub>Tags: ML, Regression, Python</sub><br/>
     </td> <!---Fin--->
     <td align="center" width="33%">
@@ -43,7 +43,7 @@
       </a>
       <br/>
       <b>House Price Prediction</b><br/>
-      <a href="https://github.com/aurvl/Housing-Price-Prediction">Repo</a>
+      <a href="https://github.com/aurvl/Housing-Price-Prediction">Repo</a><br/>
       <sub>Tags: ML, Regression, Python</sub><br/>
     </td> <!---Fin--->
   </tr>
