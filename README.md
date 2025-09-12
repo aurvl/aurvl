@@ -2,7 +2,7 @@
 **`Reasearch Assistant, Data Analyst/Scientist and Statistical Economist`**
 
 ## **About Me**
-🎓 Master’s student in <strong>Economic Data Expertise and Analysis</strong> at <strong>Université Côte d’Azur</strong>.<br>
+🎓 Master in <strong>Economic Data Expertise and Analysis</strong>.<br>
 🌍 Passionate about tackling <strong>economic</strong> and <strong>social challenges</strong> through <strong>data</strong>.<br>
 💻 Building strong skills in <strong>economics</strong>, <strong>machine learning</strong>, <strong>data analysis</strong>, and <strong>programming</strong>.<br>
 📊 I take a <strong>data-driven</strong> and <strong>analytical approach</strong> to solving <strong>complex problems</strong>.<br>
