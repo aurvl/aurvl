@@ -2,7 +2,11 @@
 **`Reasearch Assistant, Data Analyst/Scientist and Statistical Economist`**
 
 ## **About Me**
-Graduated with a Master’s degree (Bac+5) in Econometrics and Applied Economics, I have strong skills in exploratory data analysis (EDA), data visualization, understanding complex phenomena, and modeling economic and social issues.
+Graduated (Bac+5) in Econometrics and Applied Economics, I have strong skills in 
+* exploratory data analysis (EDA)
+* data visualization
+* understanding complex phenomena
+* modeling economic and social issues.
 
 I am particularly interested in data science, machine learning, and deep learning. I am currently exploring advanced methods for time series decomposition.
 
