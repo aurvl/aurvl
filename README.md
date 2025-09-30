@@ -2,11 +2,13 @@
 **`Reasearch Assistant, Data Analyst/Scientist and Statistical Economist`**
 
 ## **About Me**
-🎓 Master in <strong>Economic Data Expertise and Analysis</strong>.<br>
-🌍 Passionate about tackling <strong>economic</strong> and <strong>social challenges</strong> through <strong>data</strong>.<br>
-💻 Building strong skills in <strong>economics</strong>, <strong>machine learning</strong>, <strong>data analysis</strong>, and <strong>programming</strong>.<br>
-📊 I take a <strong>data-driven</strong> and <strong>analytical approach</strong> to solving <strong>complex problems</strong>.<br>
-🚀 Always eager to <strong>learn</strong>, <strong>collaborate</strong>, and contribute to <strong>impactful projects</strong>.<br><br>
+Graduated with a Master’s degree (Bac+5) in Econometrics and Applied Economics, I have strong skills in exploratory data analysis (EDA), data visualization, understanding complex phenomena, and modeling economic and social issues.
+
+I am particularly interested in data science, machine learning, and deep learning. I am currently exploring advanced methods for time series decomposition.
+
+My goal is to produce rigorous research and data-driven solutions capable of creating real impact.
+
+Feel free to reach out if needed.
 
 <!--- Picture--->
 
