@@ -8,7 +8,7 @@ Graduated (Bac+5) in Econometrics and Applied Economics, I have strong skills in
 * understanding complex phenomena
 * modeling economic and social issues.
 
-I am particularly interested in data science, machine learning, and deep learning. I am currently exploring advanced methods for time series decomposition.
+I am particularly interested in data science, ML, and deep learning. I am currently exploring advanced methods for time series decomposition.
 
 My goal is to produce rigorous research and data-driven solutions capable of creating real impact.
 
