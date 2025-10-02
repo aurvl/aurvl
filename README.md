@@ -35,7 +35,7 @@ Feel free to reach out if needed.
       <sub>Tags: ML, Regression, Python</sub><br/>
     </td> <!---Fin--->
     <td align="center" width="33%">
-      <a href="https://github.com/aurvl/FinancialReportsApp">
+      <a href="https://financialstockanalysis-kyvuepbme26udfnpixsjgr.streamlit.app/">
         <img src="https://github.com/aurvl/FinancialReportsApp/blob/main/img/IMG_0162.jpeg" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
       </a>
       <br/>
