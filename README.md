@@ -35,22 +35,22 @@ Feel free to reach out if needed.
       <sub>Tags: ML, Regression, Python</sub><br/>
     </td> <!---Fin--->
     <td align="center" width="33%">
-      <a href="https://github.com/aurvl/Housing-Price-Prediction">
-        <img src="" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
+      <a href="https://github.com/aurvl/FinancialReportsApp">
+        <img src="https://github.com/aurvl/FinancialReportsApp/blob/main/img/IMG_0162.jpeg" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>House Price Prediction</b><br/>
-      <a href="https://github.com/aurvl/Housing-Price-Prediction">Repo</a><br/>
-      <sub>Tags: ML, Regression, Python</sub><br/>
+      <b>Average variation price calculator for financial assets</b><br/>
+      <a href="https://github.com/aurvl/FinancialReportsApp">Repo</a><br/>
+      <sub>Tags: Finance, Stocks, Maths</sub><br/>
     </td> <!---Fin--->
     <td align="center" width="33%">
-      <a href="https://github.com/aurvl/Housing-Price-Prediction">
-        <img src="" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
+      <a href="https://github.com/aurvl/Projects/blob/main/Stock%20previsions/time%20series%20analysis.pdf">
+        <img src="https://github.com/aurvl/portfolio/blob/master/img/p5.jpg" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>House Price Prediction</b><br/>
-      <a href="https://github.com/aurvl/Housing-Price-Prediction">Repo</a><br/>
-      <sub>Tags: ML, Regression, Python</sub><br/>
+      <b>Belgian Trade prediction: A time series analysis</b><br/>
+      <a href="https://github.com/aurvl/Projects/blob/main/README.md">Repo</a><br/>
+      <sub>Tags: Economics, International trade, Prediction</sub><br/>
     </td> <!---Fin--->
   </tr>
 </table>
