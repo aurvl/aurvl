@@ -50,7 +50,7 @@ Feel free to reach out if needed.
       <br/>
       <b>Belgian Trade prediction: A time series analysis</b><br/>
       <a href="https://github.com/aurvl/Projects/blob/main/README.md">Repo</a><br/>
-      <sub>Tags: Economics, International trade, Prediction</sub><br/>
+      <sub>Tags: International economics, Prediction</sub><br/>
     </td> <!---Fin--->
   </tr>
 </table>
