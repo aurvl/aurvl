@@ -2,7 +2,7 @@
 **`Reasearch Assistant, Data Analyst/Scientist and Statistical Economist`**
 
 ## **About Me**
-Graduated (Bac+5) in Econometrics and Applied Economics, I have strong skills in 
+Specialized in Econometrics and Applied Economics, I have strong skills in 
 * exploratory data analysis (EDA)
 * data visualization
 * understanding complex phenomena
