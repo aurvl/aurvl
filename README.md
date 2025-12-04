@@ -66,5 +66,4 @@ Feel free to reach out if needed.
 ## Links
 - [(Portfolio)](https://aurvl.github.io/portfolio/index.html)
 - [Contact](mailto:aurelvehi@outlook.fr)
-- Socials:
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aurel-vehi-29887a290)
+- Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aurel-vehi-29887a290)
