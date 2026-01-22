@@ -36,12 +36,12 @@ Feel free to reach out if needed.
     </td> <!---Fin--->
     <td align="center" width="33%">
       <a href="https://financialstockanalysis-kyvuepbme26udfnpixsjgr.streamlit.app/">
-        <img src="https://github.com/aurvl/FinancialReportsApp/blob/main/img/IMG_0162.jpeg" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
+        <img src="https://github.com/aurvl/portfolio/blob/c82b2f8e5a701b882e1ed11172ecc8fd8f0c6301/assets/img/p12.jpg" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Average variation price calculator for financial assets</b><br/>
-      <a href="https://github.com/aurvl/FinancialReportsApp">Repo</a><br/>
-      <sub>Tags: Finance, Stocks, Maths</sub><br/>
+      <b>Research Papers Recommandation System</b><br/>
+      <a href="https://github.com/aurvl/ResearchPapersRecommandationSystem">Repo</a><br/>
+      <sub>Tags: NLP, Python, Recom. System</sub><br/>
     </td> <!---Fin--->
     <td align="center" width="33%">
       <a href="https://github.com/aurvl/Projects/blob/main/Stock%20previsions/time%20series%20analysis.pdf">
