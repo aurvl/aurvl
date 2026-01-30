@@ -44,13 +44,13 @@ Feel free to reach out if needed.
       <sub>Tags: NLP, Python, Recom. System</sub><br/>
     </td> <!---Fin--->
     <td align="center" width="33%">
-      <a href="https://github.com/aurvl/Projects/blob/main/Stock%20previsions/time%20series%20analysis.pdf">
-        <img src="https://github.com/aurvl/portfolio/blob/master/img/p5.jpg" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
+      <a href="https://fgindexestimator.onrender.com/web/">
+        <img src="https://github.com/aurvl/FGIndexEstimator/blob/main/img/panic.png" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
       </a>
       <br/>
-      <b>Belgian Trade prediction: A time series analysis</b><br/>
-      <a href="https://github.com/aurvl/Projects/blob/main/README.md">Repo</a><br/>
-      <sub>Tags: International economics, Prediction</sub><br/>
+      <b>CNN Fear & Greed Estimator</b><br/>
+      <a href="https://github.com/aurvl/FGIndexEstimator">Repo</a><br/>
+      <sub>Tags: Market Finance, Statistical Modeling, Data Processing</sub><br/>
     </td> <!---Fin--->
   </tr>
 </table>
