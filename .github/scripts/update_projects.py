@@ -65,6 +65,11 @@ def generate_projects_section(projects):
         # Lien principal (demo si dispo, sinon repo)
         link_url = demo_url if demo_url else repo_url
         
+        # Liens (repo + démo si disponible) — sur une seule ligne sans saut de ligne vide
+        links_line = f'<a href="{repo_url}" target="_blank">📘 Repo</a>'
+        if live_url and live_url != repo_url:
+            links_line += f' | <a href="{live_url}" target="_blank">🚀 Demo</a>'
+
         # Générer la carte du projet
         html += f"""    <td align="center" width="33%">
       <a href="{link_url}" target="_blank">
@@ -72,8 +77,7 @@ def generate_projects_section(projects):
       </a>
       <br/>
       <b>{title}</b><br/>
-      <a href="{repo_url}" target="_blank">📘 Repo</a>
-      {f'| <a href="{live_url}" target="_blank">🚀 Demo</a>' if live_url and live_url != repo_url else ''}
+      {links_line}
       <br/>
       <sub>{tools_str}</sub>
     </td>
