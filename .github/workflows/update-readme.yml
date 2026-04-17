@@ -1,6 +1,9 @@
 name: Update README Projects
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:  # Déclencher manuellement depuis GitHub
   schedule:
     - cron: '0 0 * * 0'  # Chaque dimanche à minuit (optionnel)
