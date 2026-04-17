@@ -38,9 +38,13 @@ def generate_projects_section(projects):
         reverse=True
     )[:3]
     
-    html = "## **Recent Projects**\n\n<div align=\"center\">\n"
+    html = "## **Recent Projects**\n\n<table>\n  <tr>\n"
     
-    for project in sorted_projects:
+    for idx, project in enumerate(sorted_projects):
+        # Nouvelle ligne tous les 3 projets
+        if idx > 0 and idx % 3 == 0:
+            html += "  </tr>\n  <tr>\n"
+        
         # Récupérer les infos du projet
         title = project.get('content', {}).get('en', {}).get('title', 'Untitled Project')
         repo_url = project.get('links', {}).get('github', '#')
@@ -67,16 +71,20 @@ def generate_projects_section(projects):
         if live_url and live_url != repo_url:
             links_line += f' | <a href="{live_url}" target="_blank">🚀 Demo</a>'
 
-        # Générer la carte du projet (inline-block pour le responsive)
-        html += f"""  <a href="{link_url}" target="_blank" aria-label="View project {title}" style="display:inline-block; margin:10px; vertical-align:top; text-decoration:none; color:inherit; width:280px;">
-    <img src="{cover_url}" alt="{title}" width="280" style="border-radius:8px; object-fit:cover; height:160px;"/><br/>
-    <b>{title}</b><br/>
-    {links_line}<br/>
-    <sub>{tools_str}</sub>
-  </a>
+        # Générer la carte du projet
+        html += f"""    <td align="center" width="33%">
+      <a href="{link_url}" target="_blank">
+        <img src="{cover_url}" alt="{title}" style="width:100%; height:150px; object-fit:cover; border-radius:8px;"/>
+      </a>
+      <br/>
+      <b>{title}</b><br/>
+      {links_line}
+      <br/>
+      <sub>{tools_str}</sub>
+    </td>
 """
     
-    html += "</div>\n"
+    html += "  </tr>\n</table>\n"
     return html
 
 def update_readme(projects_section):
