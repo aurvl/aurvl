@@ -45,7 +45,6 @@ Data Scientist specialized in econometrics, statistical modeling, and applied da
       <br/>
       <b>Insurance Claim Fraud Detection & Counterfactual Decision Support</b><br/>
       <a href="https://github.com/aurvl/InsuranceClaimFraud" target="_blank">📘 Repo</a>
-      
       <br/>
       <sub>Python, PostgreSQL, FastAPI</sub>
     </td>
@@ -56,7 +55,6 @@ Data Scientist specialized in econometrics, statistical modeling, and applied da
       <br/>
       <b>Excel Sales Performance Analysis (2012-2014)</b><br/>
       <a href="https://github.com/aurvl/Excel-Data-Analyst-Project" target="_blank">📘 Repo</a>
-      
       <br/>
       <sub>Excel, Power Query, Data Modeling</sub>
     </td>
