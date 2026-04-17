@@ -1,8 +1,6 @@
 # **Aurel Vehi**
 **`Data Scientist | Econometrics & Modeling`**
 
----
-
 ## FR
 
 Data Scientist spécialisé en économétrie, modélisation statistique et data science appliquée. Je construis des solutions analytiques pour des enjeux économiques, environnementaux et décisionnels sur l'ensemble de la chaîne data (de la collecte aux insights).
@@ -15,7 +13,6 @@ Data Scientist specialized in econometrics, statistical modeling, and applied da
 
 **Interests:** Time series analysis, nowcasting, environmental economics, ML/deep learning, sustainable finance, Neuro-Symbolic AI.
 
----
 ## Links
 
 <!--
