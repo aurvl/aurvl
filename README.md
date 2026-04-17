@@ -9,8 +9,6 @@ Data Scientist spécialisé en économétrie, modélisation statistique et data 
 
 **Intérêts :** Séries temporelles, nowcasting, économie environnementale, ML/deep learning, finance durable, Neuro-Symbolic AI.
 
----
-
 ## EN
 
 Data Scientist specialized in econometrics, statistical modeling, and applied data science. I build analytical solutions for economic, environmental, and business challenges across the full data pipeline (from collection to insights).
