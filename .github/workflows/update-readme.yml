@@ -1,0 +1,44 @@
+name: Update README Projects
+
+on:
+  workflow_dispatch:  # Déclencher manuellement depuis GitHub
+  schedule:
+    - cron: '0 0 * * 0'  # Chaque dimanche à minuit (optionnel)
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout aurvl/aurvl (mon profil)
+        uses: actions/checkout@v4
+        with:
+          repository: aurvl/aurvl
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: profile-repo
+      
+      - name: Checkout aurvl/portfolio (source des projets)
+        uses: actions/checkout@v4
+        with:
+          repository: aurvl/portfolio
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: portfolio-repo
+      
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Run update script
+        working-directory: profile-repo
+        run: python .github/scripts/update_projects.py
+        env:
+          PORTFOLIO_PATH: ../portfolio-repo
+      
+      - name: Commit and push changes
+        working-directory: profile-repo
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Actions Bot"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: auto-update projects from portfolio" && git push)
