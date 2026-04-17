@@ -26,17 +26,21 @@ def load_projects():
 
 def generate_projects_section(projects):
     """
-    Génère la section HTML des projets
+    Génère la section HTML des 3 projets les plus récents
     """
     if not projects:
         return "<!-- Aucun projet trouvé -->"
     
-    # Filtrer les projets featured ou tous
-    featured_projects = [p for p in projects if p.get('featured', False) or True][:6]
+    # Trier par date décroissante et prendre les 3 plus récents
+    sorted_projects = sorted(
+        projects,
+        key=lambda p: p.get('date', ''),
+        reverse=True
+    )[:3]
     
     html = "## **Recent Projects**\n\n<table>\n  <tr>\n"
     
-    for idx, project in enumerate(featured_projects):
+    for idx, project in enumerate(sorted_projects):
         # Nouvelle ligne tous les 3 projets
         if idx > 0 and idx % 3 == 0:
             html += "  </tr>\n  <tr>\n"
