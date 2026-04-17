@@ -18,13 +18,17 @@ Data Scientist specialized in econometrics, statistical modeling, and applied da
 **Interests:** Time series analysis, nowcasting, environmental economics, ML/deep learning, sustainable finance, Neuro-Symbolic AI.
 
 ---
-## My Socials
+## Links
 
+<!--
 - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aurelvehi@outlook.fr)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aurel-vehi-29887a290)
 - [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=firefox&logoColor=white&style=for-the-badge)](https://aurvl.github.io/portfolio/)
 - [![Blog](https://img.shields.io/badge/-Blog-4f5d75?logo=signal&logoColor=white&style=for-the-badge)](https://aurvl.github.io/portfolio/blog)
 - [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/7CgCeVsv)
+-->
+
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aurelvehi@outlook.fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aurel-vehi-29887a290) [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=firefox&logoColor=white&style=for-the-badge)](https://aurvl.github.io/portfolio/) [![Blog](https://img.shields.io/badge/-Blog-4f5d75?logo=signal&logoColor=white&style=for-the-badge)](https://aurvl.github.io/portfolio/blog) [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/7CgCeVsv)
 
 <!-- <img src="BannerGit3.png" alt="Banner" width="100%" height="auto"> -->
 
