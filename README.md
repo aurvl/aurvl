@@ -33,38 +33,18 @@ Data Scientist specialized in econometrics, statistical modeling, and applied da
 <!---Other stacks...--->
 ---
 
-## **Recent projects**
+<!-- PROJECTS_START -->
+## **Recent Projects**
+
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/aurvl/Housing-Price-Prediction">
-        <img src="https://github.com/aurvl/Housing-Price-Prediction/blob/main/eval/actual_vs_predicted_xgb.png" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>House Price Prediction</b><br/>
-      <a href="https://github.com/aurvl/Housing-Price-Prediction">Repo</a><br/>
-      <sub>Tags: ML, Regression, Python</sub><br/>
-    </td> <!---Fin--->
-    <td align="center" width="33%">
-      <a href="https://financialstockanalysis-kyvuepbme26udfnpixsjgr.streamlit.app/">
-        <img src="https://github.com/aurvl/portfolio/blob/c82b2f8e5a701b882e1ed11172ecc8fd8f0c6301/assets/img/p12.jpg" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>Research Papers Recommandation System</b><br/>
-      <a href="https://github.com/aurvl/ResearchPapersRecommandationSystem">Repo</a><br/>
-      <sub>Tags: NLP, Python, Recom. System</sub><br/>
-    </td> <!---Fin--->
-    <td align="center" width="33%">
-      <a href="https://fgindexestimator.onrender.com/web/">
-        <img src="https://github.com/aurvl/FGIndexEstimator/blob/main/img/panic.png" alt="projet1" style="width:100%; height:150px; object-fit:cover;"/>
-      </a>
-      <br/>
-      <b>CNN Fear & Greed Estimator</b><br/>
-      <a href="https://github.com/aurvl/FGIndexEstimator">Repo</a><br/>
-      <sub>Tags: Market Finance, Statistical Modeling, Data Processing</sub><br/>
-    </td> <!---Fin--->
+      ...vos projets existants ici...
+    </td>
   </tr>
 </table>
+
+<!-- PROJECTS_END -->
 
 ## **GitHub Stats**
 ![](https://github-readme-stats.vercel.app/api?username=aurvl&theme=ocean_dark&hide_border=true&include_all_commits=false&count_private=false)
