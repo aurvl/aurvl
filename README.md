@@ -64,8 +64,7 @@ Data Scientist specialized in econometrics, statistical modeling, and applied da
       </a>
       <br/>
       <b>Sales Analytics Dashboard</b><br/>
-      <a href="https://github.com/aurvl/Data-Analysis-Project-Sales" target="_blank">📘 Repo</a>
-      | <a href="https://aurvl.github.io/portfolio/projects?project=sales-analytics-dashboard" target="_blank">🚀 Demo</a>
+      <a href="https://github.com/aurvl/Data-Analysis-Project-Sales" target="_blank">📘 Repo</a> | <a href="https://aurvl.github.io/portfolio/projects?project=sales-analytics-dashboard" target="_blank">🚀 Demo</a>
       <br/>
       <sub>PostgreSQL, SQL, Power BI</sub>
     </td>
