@@ -1,18 +1,28 @@
 # **Aurel Vehi**
-**`Reasearch Assistant, Data Analyst/Scientist and Statistical Economist`**
+**`Data Scientist | Econometrics & Modeling`**
 
-## **About Me**
-Specialized in Econometrics and Applied Economics, I have strong skills in 
-* exploratory data analysis (EDA)
-* data visualization
-* understanding complex phenomena
-* modeling economic and social issues.
+---
 
-I am particularly interested in data science, ML, and deep learning. I am currently exploring advanced methods for time series decomposition.
+## FR
 
-My goal is to produce rigorous research and data-driven solutions capable of creating real impact.
+Data Scientist spécialisé en économétrie, modélisation statistique et data science appliquée. Je construis des solutions analytiques pour des enjeux économiques, environnementaux et décisionnels sur l'ensemble de la chaîne data (de la collecte aux insights).
 
-Feel free to reach out if needed.
+**Intérêts :** Séries temporelles, nowcasting, économie environnementale, ML/deep learning, finance durable, Neuro-Symbolic AI.
+
+---
+
+## EN
+
+Data Scientist specialized in econometrics, statistical modeling, and applied data science. I build analytical solutions for economic, environmental, and business challenges across the full data pipeline (from collection to insights).
+
+**Interests:** Time series analysis, nowcasting, environmental economics, ML/deep learning, sustainable finance, Neuro-Symbolic AI.
+
+---
+## My Socials
+
+- 📧 [Contact](mailto:aurelvehi@outlook.fr)
+- 🔗 [Portfolio](https://aurvl.github.io/portfolio/index.html)
+- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aurel-vehi-29887a290)
 
 <img src="BannerGit3.png" alt="Banner" width="100%" height="auto">
 
@@ -62,8 +72,3 @@ Feel free to reach out if needed.
 <!--
 -->
 <!--![](https://github-profile-trophy.vercel.app/?username=aurvl&theme=dracula&no-frame=false&no-bg=true&margin-w=4)-->
-
-## Links
-- [(Portfolio)](https://aurvl.github.io/portfolio/index.html)
-- [Contact](mailto:aurelvehi@outlook.fr)
-- Socials: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aurel-vehi-29887a290)
