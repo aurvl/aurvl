@@ -54,7 +54,8 @@ def generate_projects_section(projects):
         # Image
         cover_src = project.get('cover', {}).get('src', '')
         if cover_src.startswith('/'):
-            cover_url = f"https://raw.githubusercontent.com/aurvl/portfolio/main/public{cover_src}"
+            # Utilisation de la branche 'master' et du dossier 'public' correct
+            cover_url = f"https://raw.githubusercontent.com/aurvl/portfolio/master/public{cover_src}"
         else:
             cover_url = cover_src
         
