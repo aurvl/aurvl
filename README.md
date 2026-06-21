@@ -39,6 +39,26 @@ Data Scientist specialized in econometrics, statistical modeling, and applied da
 <table>
   <tr>
     <td align="center" width="33%">
+      <a href="https://github.com/aurvl/Bayesian-Regression" target="_blank">
+        <img src="https://raw.githubusercontent.com/aurvl/portfolio/master/public/assets/projects/images/bayesian-linear-regression-econometrics-cover.jpg" alt="Bayesian Linear Regression in Econometrics" style="width:100%; height:150px; object-fit:cover; border-radius:8px;"/>
+      </a>
+      <br/>
+      <b>Bayesian Linear Regression in Econometrics</b><br/>
+      <a href="https://github.com/aurvl/Bayesian-Regression" target="_blank">📘 Repo</a>
+      <br/>
+      <sub>Python, NumPy, SciPy</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/aurvl/GPT-from-scratch" target="_blank">
+        <img src="https://raw.githubusercontent.com/aurvl/portfolio/master/public/assets/projects/images/gpt-from-scratch-cover.jpg" alt="Mini GPT from Scratch" style="width:100%; height:150px; object-fit:cover; border-radius:8px;"/>
+      </a>
+      <br/>
+      <b>Mini GPT from Scratch</b><br/>
+      <a href="https://github.com/aurvl/GPT-from-scratch" target="_blank">📘 Repo</a>
+      <br/>
+      <sub>Python, PyTorch, Transformer</sub>
+    </td>
+    <td align="center" width="33%">
       <a href="https://github.com/aurvl/InsuranceClaimFraud" target="_blank">
         <img src="https://raw.githubusercontent.com/aurvl/portfolio/master/public/assets/projects/images/insurance-claim-fraud-counterfactual-simulator-cover.jpg" alt="Insurance Claim Fraud Detection & Counterfactual Decision Support" style="width:100%; height:150px; object-fit:cover; border-radius:8px;"/>
       </a>
@@ -47,26 +67,6 @@ Data Scientist specialized in econometrics, statistical modeling, and applied da
       <a href="https://github.com/aurvl/InsuranceClaimFraud" target="_blank">📘 Repo</a>
       <br/>
       <sub>Python, PostgreSQL, FastAPI</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/aurvl/Excel-Data-Analyst-Project" target="_blank">
-        <img src="https://raw.githubusercontent.com/aurvl/portfolio/master/public/assets/projects/images/excel-data-analyst-project-cover.jpg" alt="Excel Sales Performance Analysis (2012-2014)" style="width:100%; height:150px; object-fit:cover; border-radius:8px;"/>
-      </a>
-      <br/>
-      <b>Excel Sales Performance Analysis (2012-2014)</b><br/>
-      <a href="https://github.com/aurvl/Excel-Data-Analyst-Project" target="_blank">📘 Repo</a>
-      <br/>
-      <sub>Excel, Power Query, Data Modeling</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://aurvl.github.io/portfolio/projects?project=sales-analytics-dashboard" target="_blank">
-        <img src="https://raw.githubusercontent.com/aurvl/portfolio/master/public/assets/projects/images/sales-analytics-dashboard-cover.png" alt="Sales Analytics Dashboard" style="width:100%; height:150px; object-fit:cover; border-radius:8px;"/>
-      </a>
-      <br/>
-      <b>Sales Analytics Dashboard</b><br/>
-      <a href="https://github.com/aurvl/Data-Analysis-Project-Sales" target="_blank">📘 Repo</a> | <a href="https://aurvl.github.io/portfolio/projects?project=sales-analytics-dashboard" target="_blank">🚀 Demo</a>
-      <br/>
-      <sub>PostgreSQL, SQL, Power BI</sub>
     </td>
   </tr>
 </table>
