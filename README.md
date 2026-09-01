@@ -1,10 +1,6 @@
 # **Aurel Vehi**
 **`PhD Candidate • Applied Economist`**
 
-#### FR
-
-#### EN
-
 ## Links
 
 <!--
