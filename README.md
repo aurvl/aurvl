@@ -1,17 +1,9 @@
 # **Aurel Vehi**
-**`Data Scientist | Econometrics & Modeling`**
+**`PhD Candidate • Applied Economist`**
 
 #### FR
 
-Data Scientist spécialisé en économétrie, modélisation statistique et data science appliquée. Je construis des solutions analytiques pour des enjeux économiques, environnementaux et décisionnels sur l'ensemble de la chaîne data (de la collecte aux insights).
-
-***Intérêts :** Séries temporelles, nowcasting, économie environnementale, ML/deep learning, finance durable, Neuro-Symbolic AI.*
-
 #### EN
-
-Data Scientist specialized in econometrics, statistical modeling, and applied data science. I build analytical solutions for economic, environmental, and business challenges across the full data pipeline (from collection to insights).
-
-***Interests:** Time series analysis, nowcasting, environmental economics, ML/deep learning, sustainable finance, Neuro-Symbolic AI.*
 
 ## Links
 
@@ -23,7 +15,7 @@ Data Scientist specialized in econometrics, statistical modeling, and applied da
 - [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/7CgCeVsv)
 -->
 
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aurelvehi@outlook.fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aurel-vehi-29887a290) [![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?logo=firefox&logoColor=white&style=for-the-badge)](https://aurvl.github.io/portfolio/) [![Blog](https://img.shields.io/badge/-Blog-4f5d75?logo=signal&logoColor=white&style=for-the-badge)](https://aurvl.github.io/portfolio/blog) [![Discord](https://img.shields.io/badge/-Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/7CgCeVsv)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:aurelvehi@outlook.fr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/aurel-vehi-29887a290) [![Website](https://img.shields.io/badge/-Portfolio-4285F4?logo=firefox&logoColor=white&style=for-the-badge)](https://aurvl.github.io/portfolio/)
 
 <!-- <img src="BannerGit3.png" alt="Banner" width="100%" height="auto"> -->
 
