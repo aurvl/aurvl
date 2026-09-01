@@ -1,5 +1,5 @@
 # **Aurel Vehi**
-**`PhD Candidate • Applied Economist`**
+**`PhD Candidate • Applied Economics`**
 
 ## Links
 
