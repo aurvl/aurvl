@@ -7,6 +7,7 @@
   </tr>
 </table>
 
+<!-- PROJECTS_START -->
 ## **Last Projects**
 
 <table>
