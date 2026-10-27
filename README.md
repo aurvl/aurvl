@@ -1,4 +1,3 @@
-# **Aurel Vehi**
 <table>
   <tr>
     <td><code><strong>Applied Economist &amp; PhD Researcher</strong></code></td>
