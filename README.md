@@ -2,7 +2,12 @@
   <tr>
     <td><code><strong>Applied Economist &amp; PhD Researcher</strong></code></td>
     <td>
-      <a href="https://aurvl.github.io/portfolio/#contact-form"><img src="https://img.shields.io/badge/✉-Contact-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Contact"></a>
+      <a href="https://aurvl.github.io/portfolio/#contact-form">
+        <img
+          src="https://img.shields.io/badge/-Contact-blue?logo=gmail&logoColor=white&style=flat"
+          alt="Contact"
+        >
+      </a>
     </td>
   </tr>
 </table>
