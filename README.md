@@ -3,9 +3,6 @@
   <tr>
     <td><code><strong>Applied Economist &amp; PhD Researcher</strong></code></td>
     <td>
-      <a href="https://aurvl.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-4285F4?logo=firefox&logoColor=white&style=for-the-badge" alt="Portfolio"></a>
-    </td>
-    <td>
       <a href="https://aurvl.github.io/portfolio/#contact-form"><img src="https://img.shields.io/badge/✉-Contact-blue?logo=gmail&logoColor=white&style=for-the-badge" alt="Contact"></a>
     </td>
   </tr>
