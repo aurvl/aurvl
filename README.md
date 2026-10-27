@@ -26,7 +26,7 @@
 --->
 
 <!-- PROJECTS_START -->
-## **Recent Projects**
+## **Last Projects**
 
 <table>
   <tr>
